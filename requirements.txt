@@ -1,0 +1,9 @@
+ipykernel
+python-dotenv
+openai
+langchain
+langchain-community
+langchain-openai
+langgraph
+markdown
+python-docx

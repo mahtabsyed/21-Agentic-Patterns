@@ -1,0 +1,9 @@
+# Go to your folder and create virtual env in it
+$ cd FOLDER
+
+$ python3 -m venv .venv
+$ source .venv/bin/activate
+$ python3 -m pip install -r requirements.txt
+
+# Check a package
+$ pip show PyPDF2
