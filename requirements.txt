@@ -5,5 +5,7 @@ langchain
 langchain-community
 langchain-openai
 langgraph
+google-adk
+nest_asyncio
 markdown
 python-docx
