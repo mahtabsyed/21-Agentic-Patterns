@@ -3,6 +3,15 @@
 Acknowledgements - @Antonio Gulli and @Google
 https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0#heading=h.pxcur8v2qagu
 
+
+## My view - Agentic Patters - Parallels to Traditional Programming **
+1 - Prompt Chaining - Like a sequential logic in programming
+2 - Routing - Like conditional logic in programming
+3 - Parallelization - Like multithreaded parallel tasks in programming
+4 - Reflection - Self-improvement using meta-cognition - We don't have such constructs in traditional programming. This is possible with knowledge embedded in LLMs.
+5 - TBD
+
+
 ## Introduction:
 •	What are Agentic Systems?
 •	Why Patterns Matter in Agent Development
