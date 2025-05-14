@@ -4,8 +4,10 @@ openai
 langchain
 langchain-community
 langchain-openai
+langchain-google-genai
 langgraph
 google-adk
+crewai
 nest_asyncio
 markdown
 python-docx

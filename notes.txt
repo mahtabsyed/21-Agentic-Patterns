@@ -7,3 +7,9 @@ $ python3 -m pip install -r requirements.txt
 
 # Check a package
 $ pip show PyPDF2
+
+# Get Google API key here
+https://aistudio.google.com/app/apikey
+
+# Gemini model names
+https://ai.google.dev/gemini-api/docs/models
