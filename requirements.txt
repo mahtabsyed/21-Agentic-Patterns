@@ -5,6 +5,7 @@ langchain
 langchain-community
 langchain-openai
 langchain-google-genai
+google-generativeai
 langgraph
 google-adk
 crewai
