@@ -1,6 +1,6 @@
 # MIT License
 # Copyright (c) 2025 Mahtab Syed
-# 
+# https://www.linkedin.com/in/mahtabsyed/
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
 # in the Software without restriction, including without limitation the rights
@@ -183,20 +183,19 @@ if __name__ == "__main__":
     print("\n🧠 Welcome to the AI Code Generation Agent")
 
     # Example 1
+    use_case_input = "Write code to find BinaryGap of a given positive integer"
+    goals_input = "Code simple to understand, Functionally correct, Handles comprehensive edge cases, Takes positive integer input only, prints the results with few examples"
+    run_code_agent(use_case_input, goals_input)
+
+    # Example 2
     # use_case_input = "Write code to count the number of files in current directory and all its nested sub directories, and print the total count"
     # goals_input = (
     #     "Code simple to understand, Functionally correct, Handles comprehensive edge cases, Ignore recommendations for performance, Ignore recommendations for test suite use like unittest or pytest"
     # )
     # run_code_agent(use_case_input, goals_input)
- 
 
-    # Example 2
-    # use_case_input = "Write code to find BinaryGap of a given positive integer"
-    # goals_input = "Code simple to understand, Functionally correct, Handles comprehensive edge cases, Takes positive integer input only, prints the results with few examples"
+
+    # Example 3
+    # use_case_input = "Write code which takes a command line input of a word doc or docx file and opens it and counts the number of words, and characters in it and prints all"
+    # goals_input = "Code simple to understand, Functionally correct, Handles edge cases"
     # run_code_agent(use_case_input, goals_input)
-
-
-     # Example 3
-    use_case_input = "Write code which takes a command line input of a word doc or docx file and opens it and counts the number of words, and characters in it and prints all"
-    goals_input = "Code simple to understand, Functionally correct, Handles edge cases"
-    run_code_agent(use_case_input, goals_input)
