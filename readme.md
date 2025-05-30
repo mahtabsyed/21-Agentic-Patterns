@@ -11,8 +11,8 @@ https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/
 - 4 - Reflection - Self-improvement using meta-cognition - We don't have such constructs in traditional programming. This is possible with knowledge embedded in LLMs.
 - 5 – Tool Use – Like Function calling in traditional programming
 - 6 - Planning - Analogy does not exist in traditional programming
-- 7 - Multi-Agent Collaboration - - Analogy does not exist in traditional programming
-- 8 - 
+- 7 - Multi-Agent Collaboration - Analogy does not exist in traditional programming
+- 8 - Memory Management - Like, RAM, Hard disk, Files, Databases in traditional programming
 - 9 - 
 - 10 - 
 
