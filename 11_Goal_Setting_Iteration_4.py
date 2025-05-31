@@ -16,7 +16,7 @@ Objective: Build an AI Agent which can write code for a specified use case based
 - Accepts a coding problem (use case) in code or can be as input.
 - Accepts a list of goals (e.g., "simple", "tested", "handles edge cases")  in code or can be input.
 - Uses an LLM (like GPT-4o) to generate and refine Python code until the goals are met. (I am using max 5 iterations, this could be based on a set goal as well)
-- To check if we have met our goals I am asking the LLM to judge this and answer just True or False which makes it easier to stop the iterations.
+- To check if we have met our goals I am asking the LLM to judge this and answer with a confidence score 1-10, which makes it easier to stop the iterations.
 - Saves the final code in a .py file with a clean filename and a header comment.
 """
 
