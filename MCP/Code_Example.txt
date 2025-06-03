@@ -1,0 +1,3 @@
+Hands-On Code Example
+This example demonstrates connecting to a local MCP server that provides file system operations, allowing Google's ADK agent to interact with your local file system.
+First Up: Set Up Your Agent with MCPToolset: Create an agent.py file (e.g., in ./adk_agent_samples/mcp_agent/agent.py). The MCPToolset is instantiated directly within the tools list of your LlmAgent. Important: Replace "/path/to/your/folder" in the args list with the absolute path to an actual folder on your local system that the MCP server can access.

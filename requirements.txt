@@ -1,6 +1,7 @@
 python-dotenv
 openai
 langchain
+langchain-core
 langchain-community
 langchain-openai
 langchain-google-genai
@@ -9,10 +10,15 @@ google-generativeai
 langgraph
 crewai
 mcp
+fastmcp
+weaviate
+weaviate-client[embedded]
+
 nest_asyncio
 gymnasium
 stable_baselines3
 pygame
+
 ipykernel
 markdown
 python-docx
