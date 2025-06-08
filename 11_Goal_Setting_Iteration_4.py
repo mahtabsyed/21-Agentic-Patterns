@@ -214,20 +214,27 @@ if __name__ == "__main__":
     print("\n🧠 Welcome to the AI Code Generation Agent")
 
     # Example 1
-    use_case_input = "Write code to find BinaryGap of a given positive integer"
-    goals_input = "Code simple to understand, Functionally correct, Handles comprehensive edge cases, Takes positive integer input only, prints the results with few examples"
-    run_code_agent(use_case_input, goals_input)
+    # use_case_input = "Write code to find BinaryGap of a given positive integer"
+    # goals_input = "Code simple to understand, Functionally correct, Handles comprehensive edge cases, Takes positive integer input only, prints the results with few examples"
+    # run_code_agent(use_case_input, goals_input)
+
 
     # Example 2
-    # use_case_input = "Write code to count the number of files in current directory and all its nested sub directories, and print the total count"
-    # goals_input = (
-    #     "Code simple to understand, Functionally correct, Handles comprehensive edge cases, Ignore recommendations for performance, Ignore recommendations for test suite use like unittest or pytest"
-    # )
-    # run_code_agent(use_case_input, goals_input)
+    use_case_input = "Write code to count the number of files in current directory and all its nested sub directories, and print the total count"
+    goals_input = (
+        "Code simple to understand, Functionally correct, Handles comprehensive edge cases, Ignore recommendations for performance, Ignore recommendations for test suite use like unittest or pytest"
+    )
+    run_code_agent(use_case_input, goals_input)
 
 
     # Example 3
     # use_case_input = "Write code which takes a command line input of a word doc or docx file and opens it and counts the number of words, and characters in it and prints all"
     # goals_input = "Code simple to understand, Functionally correct, Handles edge cases"
     # run_code_agent(use_case_input, goals_input)
+
+    # Example 4
+    # use_case_input = "Write code to create a simple car race game with my car and many other moving cars on different lanes like a real race. Use Pygame library for this. The game should have a simple GUI, a scoreboard with time remaining and lives remaining, and should handle edge cases like collisions and out of bounds. The road should be a simple straight road with lanes, and the player car should be controlled by arrow keys. The game should end when the player runs out of lives or time."
+    # goals_input = "Code simple to understand, Functionally correct, Handles edge cases, Uses Pygame library, Has a simple GUI, Has a scoreboard with time remaining and lives remaining"
+    # run_code_agent(use_case_input, goals_input)
+
 
