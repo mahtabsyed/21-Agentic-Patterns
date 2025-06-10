@@ -13,3 +13,8 @@ https://aistudio.google.com/app/apikey
 
 # Gemini model names
 https://ai.google.dev/gemini-api/docs/models
+
+Google CSE Search Engine ID
+<script async src="https://cse.google.com/cse.js?cx=CSEID">
+</script>
+<div class="gcse-search"></div>

@@ -8,13 +8,21 @@ https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/
 - 1 - Prompt Chaining - Like a sequential logic in programming
 - 2 - Routing - Like conditional logic in programming
 - 3 - Parallelization - Like multithreaded parallel tasks in programming
-- 4 - Reflection - Self-improvement using meta-cognition - We don't have such constructs in traditional programming. This is possible with knowledge embedded in LLMs.
+- 4 - Reflection - Self-improvement using meta-cognition - We don't have such constructs in traditional programming. This is now possible with knowledge embedded in LLMs.
 - 5 – Tool Use – Like Function calling in traditional programming
 - 6 - Planning - Analogy does not exist in traditional programming
 - 7 - Multi-Agent Collaboration - Analogy does not exist in traditional programming
 - 8 - Memory Management - Like, RAM, Hard disk, Files, Databases in traditional programming
-- 9 - 
-- 10 - 
+- 9 - Learning and Adaptation - Analogy does not exist in traditional programming
+- 10 - Model Context Protocol - An open standard liek RestAPI
+- 11 - Goal Setting and Monitoring - Analogy does not exist in traditional programming 
+- 12 - Exception Handling and Recovery - Like Exception Handling in traditional programming 
+- 13 - Human-in-the-Loop - There is more of Human-in-the-loop (manual checks) in traditional programming
+- 14 - Knowledge Retrieval (RAG) - Like fetching information from Databases, but thats fixed or wild card search, instead of the Semantic search by LLMs
+- 15 - Inter-Agent Communication (A2A) - Like inter-process communication in traditional programming (TCP/UDP, Pipes, Message Queues, Clipboard)
+- 16 - Resource-Aware Optimization - Achieved via settings with rules in traditional programming
+- 
+
 
 
 ## Introduction:
