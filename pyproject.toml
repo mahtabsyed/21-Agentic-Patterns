@@ -1,0 +1,16 @@
+[project]
+name = "21-agentic-patterns"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "asyncio>=4.0.0",
+    "google-adk>=1.16.0",
+    "ipykernel>=7.0.1",
+    "langchain-core>=1.0.0",
+    "langchain-openai>=1.0.0",
+    "markdown>=3.9",
+    "nest-asyncio>=1.6.0",
+    "python-dotenv>=1.1.1",
+]

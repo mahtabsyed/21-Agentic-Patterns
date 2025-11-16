@@ -1,4 +1,8 @@
+ipykernel
+markdown
+python-docx
 python-dotenv
+
 openai
 langchain
 langchain-core
@@ -18,7 +22,3 @@ nest_asyncio
 gymnasium
 stable_baselines3
 pygame
-
-ipykernel
-markdown
-python-docx

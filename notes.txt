@@ -1,9 +1,42 @@
 # Go to your folder and create virtual env in it
 $ cd FOLDER
 
+
 $ python3 -m venv .venv
 $ source .venv/bin/activate
 $ python3 -m pip install -r requirements.txt
+
+# PIP for package management
+$ /usr/local/bin/python3 -m venv .venv
+$ source .venv/bin/activate
+$ python3 -m pip install -r requirements.txt
+
+# -----------------
+# UV - Much better uv for package management
+# In the project directory
+uv init
+
+# Install packages with dependencies check
+uv add ipykernel 
+uv add openai
+uv add python-dotenv
+uv tree
+
+uv remove openai
+uv sync
+uv add -r requirements.txt
+
+# Run python files using
+uv run main.py
+
+# Use temp python tools
+uvx black main.py
+
+# Development config
+uv add --dev pytest
+# -----------------
+
+
 
 # Check a package
 $ pip show PyPDF2
